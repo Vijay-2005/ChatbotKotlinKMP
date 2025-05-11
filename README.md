@@ -13,8 +13,6 @@ Running on
 
 Set your Gemini API key (`gemini_api_key`) in `local.properties`
 
-Related posts:
-* [Exploring use of Gemini Generative AI APIs in a Kotlin/Compose Multiplatform project](https://johnoreilly.dev/posts/gemini-kotlin-multiplatform/)
 
 
 
