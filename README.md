@@ -7,7 +7,7 @@ Uses [Generative AI SDK](https://github.com/PatilShreyas/generative-ai-kmp).
 Running on
 * iOS 
 * Android
-* Wear OS (contributed by https://github.com/yschimke)
+* Wear OS
 * Desktop
 * Web (Wasm)
 
